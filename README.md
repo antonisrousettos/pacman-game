@@ -121,5 +121,5 @@ The game will launch in a window and start automatically.
 
 ## 👨‍💻 Authors
 
-Antonios Rousettos
-Nikolaos Marios Fountas
+- Antonios Rousettos
+- Nikolaos Marios Fountas
